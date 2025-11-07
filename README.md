@@ -98,18 +98,6 @@ npm run dev
 ```
 The Vite dev server runs at http://localhost:5173.
 
-## Available Scripts
-Backend (Gradle):
-- ./gradlew bootRun — run backend in development
-- ./gradlew build — compile and package
-- ./gradlew test — run backend tests
-
-Frontend (npm in img-frontend/):
-- npm run dev — start Vite dev server
-- npm run build — type-check and build for production
-- npm run preview — preview the production build
-- npm run lint — run ESLint
-
 ## API Overview
 Base URL: http://localhost:8080/api/document
 
